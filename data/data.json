@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+    "title": " ",
+      "description": "You'll need a teacup, a teabag, a kettle, and water",
+      "image": "howtojquery/css/supply.gif"
+    },
+    {
+      "title": " ",
+      "description": "Heat the water in the kettle until it is barely boiling",
+      "image": "howtojquery/css/boil.gif"
+    },
+    {
+      "title": " ",
+      "description": "Pour the water over the teabag",
+      "image": "howtojquery/css/pour.gif"
+    },
+    {
+      "title": " ",
+      "description": "Steep for 2-3 minutes",
+      "image": "howtojquery/css/steep.gif"
+    },
+    {
+      "title": " ",
+      "description": "Remove teabag and enjoy!",
+      "image": "howtojquery/css/remove.gif"
+    }
+  ]
+}
